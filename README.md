@@ -13,7 +13,7 @@ Attach the RFM69 as follows:
 | RFM pin | Pi pin  
 | ------- |-------
 | 3v3     | 17  
-| DIO0    | 18 (GPIO24)  
+| DIO0    | 22
 | MOSI    | 19  
 | MISO    | 21  
 | CLK     | 23  
